@@ -1,2 +1,7 @@
 my name is amulya
+<<<<<<< HEAD
 fgit  git oush
+=======
+amulya/feature
+>>>>>>> 94c145d5889ca1f8ba0a7e0e04b5acadd257c132
+gig
